@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Terry Smith",
+      "address": "Medhurst",
+      "email": "Smitham@gmail.com",
+      "contact": "9145678698"
+    },
+    {
+      "id": 2,
+      "name": "Sheldon Cherry",
+      "address": "Stavropol State",
+      "email": "Smitham@gmail.com",
+      "contact": "7786569816"
+    },
+    {
+      "id": 3,
+      "name": "Miles Stones",
+      "address": "Manchester",
+      "email": "Smitham@gmail.com",
+      "contact": "9986349816"
+    },
+    {
+      "id": 4,
+      "name": "Alison Jacson",
+      "address": "Essex",
+      "email": "Smitham@gmail.com",
+      "contact": "8698165734"
+    },
+    {
+      "name": "Sunil Desai",
+      "email": "sunil@gmail.com",
+      "contact": "86737327",
+      "address": "Pune",
+      "id": 5
+    }
+  ]
+}
